@@ -1,0 +1,30 @@
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\appsettings.Development.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\appsettings.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\libman.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\LeGaCy BOOKSTORE.staticwebassets.runtime.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\LeGaCy BOOKSTORE.exe
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\LeGaCy BOOKSTORE.deps.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\LeGaCy BOOKSTORE.runtimeconfig.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\LeGaCy BOOKSTORE.dll
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\bin\Debug\net7.0\LeGaCy BOOKSTORE.pdb
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.csproj.AssemblyReference.cache
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.AssemblyInfoInputs.cache
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.AssemblyInfo.cs
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.csproj.CoreCompileInputs.cache
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.RazorAssemblyInfo.cache
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.RazorAssemblyInfo.cs
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\staticwebassets\msbuild.LeGaCy BOOKSTORE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\staticwebassets\msbuild.build.LeGaCy BOOKSTORE.props
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LeGaCy BOOKSTORE.props
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LeGaCy BOOKSTORE.props
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\staticwebassets.build.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\staticwebassets.development.json
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\scopedcss\bundle\LeGaCy BOOKSTORE.styles.css
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.dll
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\refint\LeGaCy BOOKSTORE.dll
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.pdb
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\LeGaCy BOOKSTORE.genruntimeconfig.cache
+D:\Work\Projects\LeGaCy BOOKSTORE\LeGaCy BOOKSTORE\obj\Debug\net7.0\ref\LeGaCy BOOKSTORE.dll
